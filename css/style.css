@@ -439,7 +439,7 @@ nav a:hover:after {
     padding: 20px 30px;
     max-width: calc(100vw - 40px);
     box-sizing: border-box;
-    position: relative;
+    position: absolute;
 }
 
 form h2 {
